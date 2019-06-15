@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">ContextMenuScrollingText</string>
+    <string name="edit">Edit</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="title">Beatles Anthology Vol. 1</string>
+
+    <string name="article_content">
+        "&#160;&#160;&#160;&#160;Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Pellentesque malesuada pulvinar eros id ultricies.
+        Quisque et interdum risus. Nulla facilisi. In hac
+        habitasse platea dictumst. Sed vehicula mi a facilisis
+        dignissim. Integer ut posuere dolor. In aliquam maximus
+        aliquam. Fusce sodales lorem sit amet velit auctor, ac
+        bibendum risus volutpat. In non risus tempus, mattis
+        quam ac, rutrum est. Pellentesque bibendum commodo
+        pellentesque. Fusce blandit erat diam, a volutpat sem
+        laoreet congue. Fusce sed porta lacus. Vestibulum
+        fermentum libero nibh, accumsan sagittis purus
+        condimentum nec. Sed arcu massa, tincidunt ut elementum
+        nec, volutpat condimentum lorem. In sed ipsum a turpis
+        aliquam pellentesque sit amet vitae purus.
+        \n\n
+        Sed a ipsum in magna rutrum venenatis. Aenean et
+        placerat ligula. Nulla facilisi. Nunc lectus libero,
+        dictum a sapien sed, porta tincidunt tellus. Donec
+        ullamcorper tempor neque, at tincidunt velit tristique
+        semper. Donec auctor, lorem in interdum feugiat, est
+        velit fermentum libero, eu tempus ex sapien id purus.
+        Nullam iaculis ultrices ex. Nam nisl velit, sollicitudin
+        et purus vel, mattis imperdiet odio. Vivamus molestie
+        interdum pretium.
+        \n\n
+        Praesent auctor nunc a tempor ultrices. Nulla massa
+        lorem, sodales quis ipsum et, auctor sagittis neque.
+        Maecenas arcu urna, bibendum vel ante quis, ultrices
+        tempor neque. Interdum et malesuada fames ac ante ipsum
+        primis in faucibus. Etiam lobortis porta sapien, at
+        rhoncus tortor iaculis at. Sed et nulla pretium eros
+        porttitor euismod et iaculis massa. Proin sed libero
+        convallis, auctor dui vitae, ultricies felis. Morbi non
+        odio sed ante eleifend tristique. Curabitur facilisis
+        sit amet sapien vel ultricies. Donec nisl elit, rutrum a
+        dapibus non, porttitor id ante. Vestibulum sodales arcu
+        sed est venenatis tempor. Phasellus ornare erat sem, vel
+        tempor tortor mattis vitae. Aenean rutrum feugiat nunc
+        non venenatis. Aenean luctus finibus dui eu viverra.
+        Fusce pretium a nisi in dignissim.
+        \n\n
+        Duis sit amet interdum turpis, a mattis justo.
+        Pellentesque ultrices turpis vitae quam hendrerit
+        posuere. Nullam in nisi nec nisl scelerisque viverra.
+        Vestibulum vulputate dignissim dui et congue. Fusce
+        ornare tempor metus, eget posuere risus dictum sit amet.
+        Quisque vestibulum elit at justo pharetra, blandit
+        malesuada turpis viverra. Duis placerat, sem sed cursus
+        consectetur, nulla nibh luctus felis, a lobortis dui mi
+        id orci.
+        \n\n
+        Nullam justo nisl, tristique eget nibh in, pretium
+        sagittis lectus. Etiam ac elit dignissim ipsum efficitur
+        lacinia a a nibh. Aliquam erat volutpat. Donec interdum
+        turpis sed leo malesuada, non tempus nibh ullamcorper.
+        Donec tristique felis ut est vehicula congue. Proin sit
+        amet efficitur felis, vitae pellentesque nulla. Donec
+        congue luctus ipsum eget hendrerit. Vestibulum ante
+        ipsum primis in faucibus orci luctus et ultrices posuere
+        cubilia Curae; Quisque at erat consequat sapien viverra
+        aliquet et non eros. Etiam feugiat euismod enim, vitae
+        ornare velit finibus eget."
+    </string>
+</resources>
